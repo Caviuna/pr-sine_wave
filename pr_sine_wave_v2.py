@@ -48,7 +48,7 @@ def draw():
 def calcWave():
     global theta
     # Increment theta (try different values for 'angular velocity' here
-    theta += 0.08
+    theta += 0.08 # 0.02 for see in processing , 0.08 for see in  Movie Maker 
     # For every x value, calculate a y value with sine function
     x = theta
     for i in range(len(yvalues)):
