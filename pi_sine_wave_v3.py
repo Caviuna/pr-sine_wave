@@ -7,7 +7,7 @@ Render a simple sine wave.
 """
 
 
-spacing = 16      # How far apart should each horizontal location be spaced
+xspacing = 16      # How far apart should each horizontal location be spaced
 
 theta = 0.0         # Start angle at 0
 amplitude = 120.0    # Height of wave
