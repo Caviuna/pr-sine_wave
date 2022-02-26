@@ -18,6 +18,13 @@ Gif animted in Processing  and python lang.
 
 
 
+- Version 04
+
+![pr_sine_wave_v4](https://user-images.githubusercontent.com/87449988/155826335-48e79358-315c-4c91-b154-2511256d7488.gif)
+
+
+
+
 ## How to use 
 
 Processing site: https://www.processing.org/ 
